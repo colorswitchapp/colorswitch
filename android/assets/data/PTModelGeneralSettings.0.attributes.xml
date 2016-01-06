@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1</string>
+                <key>className</key>
+                <string>PTModelGeneralSettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Version Number</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.1</string>
+                </dict>
+                <key>Application Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Color Switch</string>
+                </dict>
+                <key>Comments</key>
+                <dict>
+                    <key>value</key>
+                    <string>add comments here</string>
+                </dict>
+                <key>Reset text</key>
+                <dict>
+                    <key>value</key>
+                    <string>PLEASE NOTE:  You are about to reset all your game progress and start completely over.  Are you sure you want to do that?</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Increase</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Angle Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>-90.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Preset</key>
+                <dict>
+                    <key>value</key>
+                    <string>&lt;Custom&gt;</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Forced Movement</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Move Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{20.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,15.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>99999.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Ground Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>48.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Simulation Time Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-90.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>10000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>93</string>
+                </dict>
+                <key>lastIdNumber</key>
+                <string>42288</string>
+                <key>platformSpecificValues</key>
+                <dict>
+                    <key>Apple iOS App Store</key>
+                    <dict>
+                        <key>leaderboardId</key>
+                        <string>colorswitch_01</string>
+                        <key>revMob</key>
+                        <string></string>
+                        <key>leadBolt</key>
+                        <string></string>
+                        <key>charboostID</key>
+                        <string></string>
+                        <key>charboostSignature</key>
+                        <string></string>
+                        <key>appLovin</key>
+                        <string></string>
+                        <key>moPub</key>
+                        <string></string>
+                        <key>vungle</key>
+                        <string></string>
+                        <key>facebookBanner</key>
+                        <string></string>
+                        <key>facebookInterstitial</key>
+                        <string></string>
+                        <key>adMobBanner</key>
+                        <string></string>
+                        <key>adMobInterstitial</key>
+                        <string></string>
+                        <key>iAds</key>
+                        <string>0</string>
+                        <key>bannersOrder</key>
+                        <string></string>
+                        <key>interstitialsOrder</key>
+                        <string></string>
+                        <key>heyZap</key>
+                        <string>717332e2154149277af63845bfba588a</string>
+                        <key>bundleID</key>
+                        <string>com.fortafygames.colorswitch</string>
+                        <key>nameOnDevice</key>
+                        <string>Color Switch</string>
+                        <key>shareMessageTemplate</key>
+                        <string>WOW ! I got [[SCORE]] points in Color Switch #colorswitch! Play with me it's free : https://itunes.apple.com/app/id1053533457</string>
+                        <key>reviewLink</key>
+                        <string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1053533457&amp;pageNumber=0&amp;sortOrdering=2&amp;type=Purple+Software&amp;mt=8</string>
+                    </dict>
+                    <key>Apple Mac App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Google Play Store</key>
+                    <dict>
+                        <key>leaderboardId</key>
+                        <string>colorswitch_01</string>
+                        <key>googlePlayId</key>
+                        <string>650690447229</string>
+                        <key>versionCode</key>
+                        <string>3</string>
+                        <key>licenseKey</key>
+                        <string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7j4nvoIDILTXBDFNnUO6Mxg82u0+3HYONTmcw/A3AMJuDnY82BMlHQILcR3LPO8Nc8+Mxek7c5ekG2LU4zCO3jh6ssjiMwjwHC1K+lnKVMSZQ7VFhWV96xhZLP2ThBBs4Xfziw5xilPvh63j9MEengWqIOoeRkkytnIofnhVWPjhMGjviyNjqldwVOQ9syYS08nmC3VAb5AtqI6M50najpBRbCvxJG8Ahcx834GZBSr6yzJb3XnFBurqDKpQAfM4axLkhdLO0TFoWEL4Y63bMPHBR7+qvRjUtKehbpwgbpCHGMCCe7y2RMi3VcpFHXpkwSaTzampXdoWe2KZEubDoQIDAQAB</string>
+                        <key>interstitialsOrder</key>
+                        <string></string>
+                        <key>bannersOrder</key>
+                        <string></string>
+                        <key>bundleID</key>
+                        <string>com.fortafygames.colorswitch</string>
+                        <key>nameOnDevice</key>
+                        <string>Color Switch</string>
+                        <key>shareMessageTemplate</key>
+                        <string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7j4nvoIDILTXBDFNnUO6Mxg82u0+3HYONTmcw/A3AMJuDnY82BMlHQILcR3LPO8Nc8+Mxek7c5ekG2LU4zCO3jh6ssjiMwjwHC1K+lnKVMSZQ7VFhWV96xhZLP2ThBBs4Xfziw5xilPvh63j9MEengWqIOoeRkkytnIofnhVWPjhMGjviyNjqldwVOQ9syYS08nmC3VAb5AtqI6M50najpBRbCvxJG8Ahcx834GZBSr6yzJb3XnFBurqDKpQAfM4axLkhdLO0TFoWEL4Y63bMPHBR7+qvRjUtKehbpwgbpCHGMCCe7y2RMi3VcpFHXpkwSaTzampXdoWe2KZEubDoQIDAQAB</string>
+                        <key>heyZap</key>
+                        <string>717332e2154149277af63845bfba588a</string>
+                        <key>reviewLink</key>
+                        <string>https://play.google.com/store/apps/details?id=com.fortafygames.colorswitch</string>
+                    </dict>
+                    <key>Amazon App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Microsoft Windows Marketplace</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                </dict>
+                <key>scoreType</key>
+                <string>Coins</string>
+                <key>shareScreen</key>
+                <string>Game Field Screen</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>0</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0000,0.0000},{0.9955,0.4328}}</string>
+                <key>_ibVersion</key>
+                <string>1.3.5</string>
+                <key>t</key>
+                <string>0</string>
+                <key>orientation</key>
+                <string>PTPScreenOrientationPortrait</string>
+                <key>screenAdjustment</key>
+                <string>0</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

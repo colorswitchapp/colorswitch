@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>12445</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,568.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2919</string>
+                </dict>
+                <key>Layering</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAboveCharacter</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>12447</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{91.967,535.721}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2919</string>
+                </dict>
+                <key>Layering</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAboveCharacter</string>
+                </dict>
+                <key>zDepth</key>
+                <string>8</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
